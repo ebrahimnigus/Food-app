@@ -31,7 +31,11 @@ A modern and responsive food ordering web application built with React. Users ca
 > Mock API / Firebase / Node.js Backend (optional)
 
 📦 Installation
-git clone https://github.com/your-username/Food-app.git
-cd Food-app
-npm install
-npm start
+
+> git clone https://github.com/your-username/Food-app.git
+
+> cd Food-app
+
+> npm install
+
+> npm start
