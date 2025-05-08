@@ -22,7 +22,7 @@ A modern and responsive food ordering web application built with React. Users ca
 
 > React (Create React App)
 
-R> eact Router – for navigation
+> React Router – for navigation
 
 > Context API or Redux – for global state management
 
